@@ -1,0 +1,11 @@
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\bin\Debug\netcoreapp2.0\hoursAndMinutes.deps.json
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\bin\Debug\netcoreapp2.0\hoursAndMinutes.runtimeconfig.json
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\bin\Debug\netcoreapp2.0\hoursAndMinutes.runtimeconfig.dev.json
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\bin\Debug\netcoreapp2.0\hoursAndMinutes.dll
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\bin\Debug\netcoreapp2.0\hoursAndMinutes.pdb
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\obj\Debug\netcoreapp2.0\hoursAndMinutes.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\obj\Debug\netcoreapp2.0\hoursAndMinutes.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\obj\Debug\netcoreapp2.0\hoursAndMinutes.AssemblyInfoInputs.cache
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\obj\Debug\netcoreapp2.0\hoursAndMinutes.AssemblyInfo.cs
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\obj\Debug\netcoreapp2.0\hoursAndMinutes.dll
+C:\Users\jt146476\Desktop\C#\chapter 2\hoursAndMinutes\hoursAndMinutes\obj\Debug\netcoreapp2.0\hoursAndMinutes.pdb
